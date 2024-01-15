@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f894daab27130cd449201bab19d309ab, type: 3}
+  m_Name: 009
+  m_EditorClassIdentifier: 
+  Fruit: {fileID: 686609650816997194, guid: 91d78c2a49ac0fe4c9059605d96aba62, type: 3}
+  NoPhysicsFruit: {fileID: 686609650816997194, guid: f082ccec3c4f9db47b5e9bf849477634, type: 3}
+  _stats:
+    icon: {fileID: 516575518, guid: b8ded3d9b62aeaa4b83d507b5c344327, type: 3}
+    Index: 8
+    PointsWhenAnnihilated: 45
+    FruitMass: 1.1

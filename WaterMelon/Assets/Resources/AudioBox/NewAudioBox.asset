@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b69a6740c76c52e48aee06666fc35c4e, type: 3}
+  m_Name: NewAudioBox
+  m_EditorClassIdentifier: 
+  MainBgm: {fileID: 8300000, guid: ffa5d374ddd686649bf39a9640a91e31, type: 3}
+  AllBGM:
+  - {fileID: 8300000, guid: 5e882f0832cb5754c8c5734433765f68, type: 3}
+  - {fileID: 8300000, guid: af96c1923a8ad6a45ac59428c0e40431, type: 3}
+  - {fileID: 8300000, guid: 6c62b349f8a09c2419d83d71fa6e609c, type: 3}
